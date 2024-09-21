@@ -1,0 +1,3 @@
+#ALPINE AS BASE
+FROM alpine:focal
+
